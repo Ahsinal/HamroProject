@@ -190,14 +190,14 @@ nav {
 
 .auth .container {
   padding: 0;
-  height: 100vh;
+  height: 160vh;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 .auth-left {
   flex: 1.6;
-  height: 100vh;
+  height: auto;
 }
 .auth-image-wrapper{
     height: inherit;
